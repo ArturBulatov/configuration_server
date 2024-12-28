@@ -1,1 +1,3 @@
-test-property: 123456-dev
+test-property:
+  field: 123456-dev
+   
